@@ -56,3 +56,7 @@ Documentation:
 - 
 Technical Manual: Detailed information on system architecture, database design, and development can be found in "technical.pdf"
 User Manual: Instructions on how to use the system are available in "UserManual.pdf".
+
+Acknowledgements:
+-
+This project was completed as part of the COMP4039 module at the University of Nottingham. The main goal of this project was to learn software design principles and start practicing HTML, CSS, PHP, and JavaScript in a hypothetical scenario, while also learning about Docker. Special thanks to the professors for their support.
